@@ -1,5 +1,5 @@
 # PETsy
-[petsy-app.herokuapp.com](https://petsy-app.herokuapp.com) (Deployed on Heroku, so the site may take a second to wake up)
+[Visit PETsy Site](https://petsy-shoppe.herokuapp.com) (Deployed on Heroku, so the site may take a second to wake up)
 > PETsy is a mock eCommerce website that tracks buyers, sellers, inventory, and purchases.
 
 ![PETsy Screenshots](./petsy_snapshot.png?raw=true "PETsy screenshots")
